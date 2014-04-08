@@ -25,8 +25,9 @@ Setting up Tracking Pixel (Empty Gif):
 
 Lib:
 
-libpcre3-dev libpcre3
+libpcre3-dev libpcre3  (for http rewrite)
 
-libgeop1 libgeoip-dev
+libgeop1 libgeoip-dev (for geopip)
+ 
 
-google-perf tools
+libgoogle-perftools libgoogle-perftools-dev google-perf tools (for google perftool)

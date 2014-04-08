@@ -24,5 +24,9 @@ Setting up Tracking Pixel (Empty Gif):
 -------
 
 Lib:
+
 libpcre3-dev libpcre3
+
 libgeop1 libgeoip-dev
+
+google-perf tools

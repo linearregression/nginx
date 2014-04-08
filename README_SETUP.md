@@ -1,7 +1,7 @@
 To build:
 -------
 ```
-./configure --prefix=/opt/nginx --with-select_module --with-poll_module --with-ipv6 --with-http_spdy_module --with-http_realip_module --with-http_geoip_module --with-http_degradation_module --with-google_perftools_module --with-cc-opt=-m64 --with-ld-opt=-m64
+./configure --prefix=/opt/nginx-dev --with-select_module --with-poll_module --with-ipv6 --with-http_spdy_module --with-http_realip_module --with-http_geoip_module --with-http_degradation_module --with-google_perftools_module --with-cc-opt=-m64 --with-ld-opt=-m64
 ```
 Notes:
 only geoip and realip is for data tracking.

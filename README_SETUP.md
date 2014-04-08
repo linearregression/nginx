@@ -23,3 +23,5 @@ google_perf tools: both lib and dev-header files. command lne for interaction/tr
 Setting up Tracking Pixel (Empty Gif):
 -------
 
+Lib:
+libpcre3-dev libpcre3

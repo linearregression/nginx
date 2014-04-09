@@ -20,14 +20,12 @@ http://dev.maxmind.com/geoip/legacy/geolite
 
 google_perf tools: both lib and dev-header files. command lne for interaction/troubleshotting
 
-Setting up Tracking Pixel (Empty Gif):
--------
-
-Lib:
-
 libpcre3-dev libpcre3  (for http rewrite)
 
 libgeop1 libgeoip-dev (for geopip)
  
-
 libgoogle-perftools libgoogle-perftools-dev google-perf tools (for google perftool)
+
+Setting up Tracking Pixel (Empty Gif):
+-------
+

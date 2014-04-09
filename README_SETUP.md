@@ -13,9 +13,17 @@ Dependencies:
 
 geoip libraries both lib and dev-header files. command lne for interaction/troubleshooting
 
+
+Method details:
+--------
+
+http://developer.rackspace.com/blog/building-an-in-house-analytics-collector-with-nginx.html
+
+
 More info: 
 -------
 http://dev.maxmind.com/geoip/
+
 http://dev.maxmind.com/geoip/legacy/geolite
 
 google_perf tools: both lib and dev-header files. command lne for interaction/troubleshotting

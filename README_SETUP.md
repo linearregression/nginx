@@ -7,6 +7,9 @@ Notes:
 only geoip and realip is for data tracking.
 spdy is for google spdy protocol support
 
+Version:
+I just use the most recent released version per github tag
+
 
 Dependencies:
 -------

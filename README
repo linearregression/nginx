@@ -1,6 +1,8 @@
 Nginx Documentation is available at http://nginx.org
 -------
 
+Info below is sample to enable geopip and other modules that do not come as part of defaul and if you want to build your own ...
+
 To build:
 -------
 ```
